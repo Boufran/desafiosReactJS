@@ -3,9 +3,9 @@
   margin: auto;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width:768px) {
   .container {
-    width: 70%;
+      width: 70%;
   }
 }
 
@@ -25,12 +25,12 @@
   width: 100%;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width:768px) {
   .detail__image {
-    width: 50%;
+      width: 50%;
   }
   .content {
-    padding-left: 3rem;
-    width: 50%;
+      padding-left: 3rem;
+      width: 50%;
   }
 }
