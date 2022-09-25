@@ -8,7 +8,7 @@ const NavBar = () => {
       <nav className="nav">
         <div className="nav__brand">
           <NavLink className="nav__link" to="/">
-            Cuevano not dead :D
+            Cuevan Not Dead :D
           </NavLink>
         </div>
         <ul className="nav__list">
